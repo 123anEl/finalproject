@@ -87,9 +87,13 @@ Description of the ML models you used with some theory
 
 
 Discussion
+
 Critical review of results 
+
 One of the disadvantages is that the model takes a very long time to train. However it shows good results in predicting the breed almost correctly at close range, taking into account that a particular breed can have several colors. But at a far distance, it is very difficult to correctly predict the breed of a dog.
+
 Next steps 
+
 Search for a solution to predict the breed of a dog from a long distance and for poor quality images. Improve accuracy.
 
 
@@ -98,20 +102,22 @@ Search for a solution to predict the breed of a dog from a long distance and for
 
 
 
-
-
-
-
-
-
 References:
+
 https://informburo.kz/interview/otkuda-berutsya-brodyachie-zhivotnye-i-pochemu-otstrel-eto-ne-vyhod
+
 https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset
+
 https://www.techtarget.com/searchenterpriseai/definition/convolutional-neural-network
+
 https://www.geeksforgeeks.org/convolutional-neural-network-cnn-in-machine-learning/
+
 https://iq.opengenus.org/different-types-of-cnn-models/
+
 https://www.mygreatlearning.com/blog/alexnet-the-first-cnn-to-win-image-net/
+
 https://keras.io/api/layers/convolution_layers/convolution2d/#:~:text=2D%20 convolution%20player%20
+
 https://www.educba.com/keras-maxpooling2d/
 
 
