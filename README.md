@@ -16,17 +16,6 @@ Sultanmurat Yeleu
 
 
 Astana, 2023
-Content
-Introduction
-Problem
-Literature review with links (another solutions)
-Current work (description of the work)
-Data and Methods
-Information about the data
-Description of the ML models you used with some theory
-Discussion
-Critical review of results
-References:
 
 
 
@@ -39,7 +28,9 @@ References:
 
 
 Introduction 
+
 Problem 
+
 Lost pets are one of the main causes of stray animals. The dogs we see on the street are either discarded, or lost, or offspring from both. They pose a great threat to people, as they can attack them. According to informburo.kz in April-May 2022, 50 bites and scratches were recorded in Aktobe, 30 of which were pet aggression. For this reason, in order to reduce the occurrence of stray dogs, it is possible to help return lost dogs to their owners. To do this, it is achievable to create a program that will search through the cameras for a particular breed of dog, which will significantly reduce the time for searching.
 Literature review with links (another solutions) 
 https://www.linkedin.com/pulse/did-you-know-app-detects-lost-pets-through-artificial-imran-alam/
